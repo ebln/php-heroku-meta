@@ -47,9 +47,26 @@
         "ext-zlib": "*"
     },
     "conflict": {
+        "ext-amqp": "<1.11",
+        "ext-apcu": "<5.1.21",
+        "ext-blackfire": "<1.69.0",
         "ext-cassandra": "*",
+        "ext-ev": "<1.1.5",
+        "ext-event": "<3.0.6",
+        "ext-imagick": "<3.5.1",
         "ext-mcrypt": "*",
+        "ext-memcached": "<3.1.5",
+        "ext-mongodb": "<1.10.0",
+        "ext-newrelic": "<9.18.1.303",
+        "ext-oauth": "<2.0.7",
+        "ext-pcov": "<1.0.9",
         "ext-phalcon": "*",
+        "ext-pq": "<2.2.0",
+        "ext-psr": "<1.0.1",
+        "ext-raphf": "<2.0.1",
+        "ext-rdkafka": "<5.0.0",
+        "ext-redis": "<5.3.4",
+        "ext-uuid": "<1.2.0",
         "ext-xmlrpc": "*"
     },
     "require-dev": {
