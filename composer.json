@@ -73,5 +73,23 @@
         "ergebnis/composer-normalize": "^2.15",
         "roave/security-advisories": "dev-latest"
     },
-    "suggest": {}
+    "suggest": {
+        "ext-bz2": "Always loaded by Heroku - not dockerized locally!",
+        "ext-calendar": "Requirable by Heroku - not dockerized locally!",
+        "ext-exif": "Requirable by Heroku - not dockerized locally!",
+        "ext-gd": "Requirable by Heroku - not dockerized locally!",
+        "ext-gettext": "Requirable by Heroku - not dockerized locally!",
+        "ext-gmp": "Requirable by Heroku - not dockerized locally!",
+        "ext-imap": "Requirable by Heroku - not dockerized locally!",
+        "ext-ldap": "Requirable by Heroku - not dockerized locally!",
+        "ext-mysqli": "Always loaded by Heroku - not dockerized locally!",
+        "ext-pcntl": "Requirable by Heroku - not dockerized locally!",
+        "ext-pdo_mysql": "Always loaded by Heroku - not dockerized locally!",
+        "ext-pgsql": "Always loaded by Heroku - not dockerized locally!",
+        "ext-shmop": "Requirable by Heroku - not dockerized locally!",
+        "ext-soap": "Requirable by Heroku - not dockerized locally!",
+        "ext-xsl": "Requirable by Heroku - not dockerized locally!",
+        "ext-zend": "Always loaded by Heroku - not dockerized locally!",
+        "ext-zip": "Always loaded by Heroku - not dockerized locally!"
+    }
 }
