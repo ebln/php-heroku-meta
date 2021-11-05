@@ -1,7 +1,7 @@
 {
     "name": "brnc/php-heroku-meta",
     "type": "metapackage",
-    "description": "Helper to get sync Heroku's available extentions.",
+    "description": "Helper to get sync Heroku's available extentions – tied to my private dev environment.",
     "authors": [
         {
             "name": "ebln",
