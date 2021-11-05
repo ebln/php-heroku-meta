@@ -38,7 +38,9 @@
         "ext-zlib": "*"
     },
     "conflict": {
+        "ext-cassandra": "*",
         "ext-mcrypt": "*",
+        "ext-phalcon": "*",
         "ext-xmlrpc": "*"
     },
     "require-dev": {
